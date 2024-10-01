@@ -9,10 +9,8 @@ const ProductsComponent = () => {
       <div className="w-full border shadow-md bg-white">
         {/* Group Header */}
         <GroupHeader />
-
         {/* Table */}
         <ProductTable />
-
         {/* Add product and pallet option */}
         <AddProductPallet />
       </div>
